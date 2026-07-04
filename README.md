@@ -117,14 +117,3 @@ Contributions welcome! Please:
 - Run linting and tests before submitting
 - Add Prisma migrations and, if applicable, seed data for DB model changes
 
-## 🛠️ Troubleshooting
-- Missing `DATABASE_URL` or incorrect DB credentials → Prisma connection failures.  
-- Prisma client not generated → run `npx prisma generate`.  
-- JWT secrets missing → authentication failures.
-
-## 📝 License
-Add your license here (e.g., MIT). Include a LICENSE file at repo root.
-
-## 📬 Contact
-Repository: https://github.com/guruprasanth02/NexusHR-An-AI-Powered-HR-Platform  
-For questions or support, open an issue in the repository.
